@@ -10,9 +10,10 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class RocketCompany {
 	
-	private String name;
-	private Rocket rocket;
+	private String 	name;
+	private Rocket 	rocket;
 	private Integer nbSuccess;
 	private Integer nbFailures;
+	private Integer budget;
 
 }
