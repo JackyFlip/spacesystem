@@ -95,9 +95,9 @@
         </object-type-filter>
       </filters>
       <sorting>
-        <object-type name="COLUMN" sorting-type="NAME" />
-        <object-type name="FUNCTION" sorting-type="NAME" />
-        <object-type name="PROCEDURE" sorting-type="NAME" />
+        <object-type name="COLUMN" sorting-type="name" />
+        <object-type name="FUNCTION" sorting-type="name" />
+        <object-type name="PROCEDURE" sorting-type="name" />
         <object-type name="ARGUMENT" sorting-type="POSITION" />
       </sorting>
       <default-editors>
@@ -146,7 +146,7 @@
         <max-sorting-columns value="4" />
       </sorting>
       <tracking-columns>
-        <columnNames value="" />
+        <columnnames value="" />
         <visible value="true" />
         <editable value="false" />
       </tracking-columns>
