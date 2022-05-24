@@ -15,5 +15,22 @@ public class RocketCompany {
 	private Integer nbSuccess;
 	private Integer nbFailures;
 	private Integer budget;
+	
+	
+	public String launchRocket() {
+		
+		// Generate random number
+		// Number over x value --> success 
+		// else fail
+		
+		// increment nbSuccess or nbFailures
+		
+	}
+	
+	public Rocket buildRocket() {
+		// handle budget
+		// recovery == true --> price++
+		// nbMotors --> price++
+	}
 
 }
